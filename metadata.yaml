@@ -1,11 +1,16 @@
 _repo: Rheinische-Seher-und-Propheten-Ein-Beitrag-zur-Kulturgeschichte_54821
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54821-h/images/cover.jpg
 creator:
   author:
     agent_name: Bahlmann, Paul
     gutenberg_agent_id: '48060'
     url: http://www.gutenberg.org/2009/agents/48060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54821#Rheinische-Seher-und-Propheten-Ein-Beitrag-zur-Kulturgeschichte
 gutenberg_issued: '2017-05-31'
 gutenberg_type: Text
 identifiers:
